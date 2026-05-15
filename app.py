@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # --- CONFIGURATION ---
-SHEET_URL = "https://docs.google.com/spreadsheets/d/e/YOUR_ID/pub?output=csv"
+SHEET_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQhFyFtoL4NEmNYZHceOSpeuVS-vymIBrIhGr5L50bd1QM-Bgh95ewCQWCMPwZJnKdLIt7m0ZywiFZ-/pub?gid=276106846&single=true&output=csv"
 
 st.set_page_config(page_title="Steam Capacity & Pipe Price", layout="wide")
 
